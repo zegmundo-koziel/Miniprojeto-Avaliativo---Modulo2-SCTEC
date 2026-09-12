@@ -1,2 +1,8 @@
 .venv/
-casting_512x512/
+
+# Ignorar pastas de imagens do dataset
+raw_images/
+processed_images/
+
+# Arquivos de cache do Jupyter
+.ipynb_checkpoints/
