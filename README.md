@@ -48,5 +48,5 @@ Abra o arquivo `main.ipynb` utilizando o VS Code, certifique-se de selecionar o 
 
 ## 🎓 Informações de Entrega (Semana 07)
 Conforme os requisitos do projeto estabelecidos pela instituição, a documentação complementar foi organizada e disponibilizada através dos links abaixo:
-- **Vídeo de Apresentação e Demonstração:** [Link do Google Drive aqui]
+- **Vídeo de Apresentação e Demonstração:** https://drive.google.com/drive/folders/1_QBAH2NFfE1t8FtgUmfewNdDVil-AaTb?usp=sharing
 
